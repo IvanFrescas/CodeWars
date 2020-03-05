@@ -4,7 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(buddy(2177, 4357));
-
     }
 
     public static String buddy(long start, long limit) {
